@@ -9,7 +9,7 @@ $( document ).ready(function() {
 			"Nuno M. Preguiça": "http://asc.di.fct.unl.pt/~nmp/",
 			"Dino Distefano": "http://www.eecs.qmul.ac.uk/~ddino/",
 			"João Costa Seco": "http://docentes.fct.unl.pt/jrcs/",
-			"Tiago M. Vale": "http://novasys.di.fct.unl.pt/~tvale",
+			"Tiago M. Vale": "http://tvale.github.io",
 			"Heiner Litz": "http://web.stanford.edu/~hlitz"
 		});
 		
