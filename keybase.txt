@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rjfd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rjd15372.github.io
+  * I am rjfd (https://keybase.io/rjfd) on keybase.
+  * I have a public key with fingerprint 506B B04D 96AD 74E5 9D04  F0EC 1999 0091 53E8 3098
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010112ed0e30ed6b93315ca9b0ae91427e6c6139ce1567bf26b1f48c2a1520319abb0a",
+            "fingerprint": "506bb04d96ad74e59d04f0ec1999009153e83098",
+            "host": "keybase.io",
+            "key_id": "1999009153e83098",
+            "kid": "010112ed0e30ed6b93315ca9b0ae91427e6c6139ce1567bf26b1f48c2a1520319abb0a",
+            "uid": "f71ec4f92d82a098726ee61d497b0819",
+            "username": "rjfd"
+        },
+        "service": {
+            "hostname": "rjd15372.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484346027,
+    "expire_in": 157680000,
+    "prev": "0c56072d395b8bea4c3c4c4d37528a7b24f34ed764847089efea46c13a471031",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUltIFFEY3tXyRpEgRW6RNSGxKHXOzJkzc9Yu9GBlRJYRZRTLXM7opO5ss7Ob
+24UuliVElvVgV40KsqIU0iCiJAoqM6Feukhk7EOFpBSVSbczdnnqsfNyOP//fd//
+/R/nwNhkT5I3+4jn4IrXoNHb9Ub1rI6XXN7MqZYe5wKbuQo6ctFKnUacYIWpcwEO
+QAAhT3VABUB1rBJBgKKmEBUolEDESxRrGApEo1DEkmrwWIUGkjVegSIPBEgUlUG5
+fM4wQ2XUDttmyGGyIsCsjnSCFV1CVCQ6QAagGiSEAECgKFBZAERmxHIr4jKYOVWJ
+0JmmxWrsERyx9w/8f/YdHZEzJEg1ZBBel3mFzZF4TCmGOiKSCmRIXGCE2iGlijK0
+vd7Qua35HKvETI26obpb/O3qzK/EzywznfKo+mujsG05lmZVsn6544QjAZfvxMMu
+YSNVg7+lgqoZ0lmSjBGjdsS0QlwAMqTmmK42RDISEAa8lM/R6rBp06DpIkQJy4Ad
+dw6NufFoIgZrJF4XiKjKKlWQJmhIQ7ogibysSCqPDAFRXcJMUQIyoQbDYA0KCpIg
+y4dzt9sQsrgAZj6VMqYZMctCihO1Kbc1o847eZTHm+RJGZ3k/jFPRnrmn4/3rDP1
+R9FAx+4sbW8sxZt+3JzYudTvn1sv13zzeiqNMw0l0+qWtSxvWOB7V7uyK+Wu9n32
+W1TUO1wft9Na7e5tiZRd4y++mnEsemW45/O1l6f6iu+0ZvuSc45Obb47Z3pGznX/
+6QvOo1WjiwMFg0nSvjeHoo8PvRRv+bf3PxuuvTTmiZKYV5M52H97z6PCpkRpT8HX
+3GnVs/C43udbTnyoWdz3biC7yH9jXl5PWnzSlzaaUxpb6DucW1dRXrWkIXHznm/n
+9N7W5sJP9cXVZ1s6nq5L3TG/tv39Q9/zxsIphQ/ScP1Qw9iWj2utL215Ay/6O9oS
+25s23Z/QfvX8uZO3reRFQ8P7x2d19/0E
+=01T3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rjfd
+
+==================================================================
+
