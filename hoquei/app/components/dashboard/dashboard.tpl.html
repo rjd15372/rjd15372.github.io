@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <div id="start-stop-btn" class="col-xs-12 row-height"
+         ng-click="$ctrl.startStopClickHandler()">
+      <span ng-if="!$ctrl.a_jogar">
+        <h1 ng-if="$ctrl.num_jogadores_em_jogo < $ctrl.NUM_JOGADORES">
+          <i class="fa fa-info-circle" aria-hidden="true" style="color:blue"></i> Adicionados {{$ctrl.num_jogadores_em_jogo}} de {{$ctrl.NUM_JOGADORES}}
+        </h1>
+        <h1 ng-if="$ctrl.num_jogadores_em_jogo === $ctrl.NUM_JOGADORES" class="clickable">
+          <i class="fa fa-play" aria-hidden="true" style="color:green"></i> Iniciar
+        </h1>
+      </span>
+      <span ng-if="$ctrl.a_jogar">
+       <h1 class="clickable">
+         <i class="fa fa-stop" aria-hidden="true" style="color:red"></i> Parar
+       </h1>
+      </span>
+    </div>
+  </div>
+  <div class="row" ng-repeat="jogador in $ctrl.jogadores">
+    <div id="player" class="col-xs-8 row-height alert clickable"
+         ng-class="$ctrl.jogadorClass(jogador)"
+         ng-click="$ctrl.jogadorClickHandler(jogador)">
+      {{jogador.nome}}
+    </div>
+    <div id="timer" class="timer-field col-xs-4 alert"
+         style="background-color: {{jogador.timer_color}} !important;"
+         ng-class="$ctrl.jogadorClass(jogador)">
+      {{jogador.tempo_de_jogo | duration:'mm:ss' }}
+    </div>
+  </div>
+</div>
